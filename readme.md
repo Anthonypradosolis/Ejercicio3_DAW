@@ -20,3 +20,7 @@
 6: Crear una nueva rama hotfix
 
 ![sexto](image/6.0.png)
+
+7 : Fusionar la rama hotfix cara main 
+
+![siete](image/7.0.png)
