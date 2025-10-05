@@ -32,3 +32,7 @@
 9: Realizar el paso anterior pero con rebase 
 
 ![nueve](image/9.0.png)
+
+10: Mostrar como se realiza el rebase 
+
+![diez](image/10.0.png)
