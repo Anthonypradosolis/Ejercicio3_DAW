@@ -12,3 +12,7 @@
 3: Realizar un commit para volver al commit numero dos sin que desaparezca los commits posteriores
 
 ![tres](image/3.0.png)
+
+4: Crear varios commits para luego hacer un git log --oneline --graph --all
+
+![cuatro](image/4.0.png)
