@@ -16,3 +16,7 @@
 4: Crear varios commits para luego hacer un git log --oneline --graph --all
 
 ![cuatro](image/4.0.png)
+
+6: Crear una nueva rama hotfix
+
+![sexto](image/6.0.png)
