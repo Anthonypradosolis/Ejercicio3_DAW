@@ -28,3 +28,7 @@
 8: Crear otra rama development y fusionarla cara main
 
 ![ocho](image/8.0.png)
+
+9: Realizar el paso anterior pero con rebase 
+
+![nueve](image/9.0.png)
