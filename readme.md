@@ -36,3 +36,7 @@
 10: Mostrar como se realiza el rebase 
 
 ![diez](image/10.0.png)
+
+11: Mostrar todos lo que hicimos en la practica
+
+![once](image/11.0.png)
