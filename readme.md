@@ -24,3 +24,7 @@
 7 : Fusionar la rama hotfix cara main 
 
 ![siete](image/7.0.png)
+
+8: Crear otra rama development y fusionarla cara main
+
+![ocho](image/8.0.png)
