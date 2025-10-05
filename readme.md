@@ -8,3 +8,7 @@
 
 ![cuatro](image/2.0.png)
 ![cinco](image/2.1.png)
+
+3: Realizar un commit para volver al commit numero dos sin que desaparezca los commits posteriores
+
+![tres](image/3.0.png)
